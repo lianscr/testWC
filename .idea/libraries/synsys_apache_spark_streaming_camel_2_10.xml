@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="synsys.apache.spark.streaming.camel_2.10" type="repository">
+    <properties maven-id="com.synsys.org.apache.spark:spark-streaming-camel_2.10:1.0.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/synsys/org/apache/spark/spark-streaming-camel_2.10/1.0.0/spark-streaming-camel_2.10-1.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/camel/camel-core/2.14.1/camel-core-2.14.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.6.6/slf4j-api-1.6.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/xml/bind/jaxb-impl/2.2.7/jaxb-impl-2.2.7.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/xml/bind/jaxb-core/2.2.7/jaxb-core-2.2.7.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/xml/bind/jaxb-api/2.2.7/jaxb-api-2.2.7.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/istack/istack-commons-runtime/2.16/istack-commons-runtime-2.16.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/xml/fastinfoset/FastInfoset/1.2.12/FastInfoset-1.2.12.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/xml/bind/jsr173_api/1.0/jsr173_api-1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/camel/camel-scala/2.14.1/camel-scala-2.14.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
