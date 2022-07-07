@@ -1,6 +1,6 @@
-import org.apache.spark.sql.SparkSession
+package com.pe.loads
 
-object LoadFile {
+object ReadFiles {
 
   def main(args: Array[String]): Unit = {
 
@@ -10,7 +10,7 @@ object LoadFile {
     val responses = dataFrameReader
       .option("header", "true")
       .option("inferSchema", value = true)
-      .csv("in/2016-stack-overflow-survey-responses.csv")
+      .csv("resources/data/input/jobs.csv")
   }
-
+  
 }
